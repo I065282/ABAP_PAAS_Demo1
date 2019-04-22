@@ -5,7 +5,7 @@ class Z_CLS_ABAPGIT definition
 
 public section.
 
-  methods GIT_METHOD1.
+  methods GIT_METHOD.
 
 protected section.
 private section.
@@ -16,8 +16,8 @@ ENDCLASS.
 CLASS Z_CLS_ABAPGIT IMPLEMENTATION.
 
 
-  method GIT_METHOD1.
+  method GIT_METHOD.
 
-*Test ABAP Git for Method Change
+*Test ABAP Git
   endmethod.
 ENDCLASS.
