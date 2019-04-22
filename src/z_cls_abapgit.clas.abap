@@ -5,9 +5,8 @@ class Z_CLS_ABAPGIT definition
 
 public section.
 
-  methods GIT_METHOD
-    importing
-      !MATNR type MATNR optional.
+  methods GIT_METHOD1.
+
 protected section.
 private section.
 ENDCLASS.
@@ -17,8 +16,8 @@ ENDCLASS.
 CLASS Z_CLS_ABAPGIT IMPLEMENTATION.
 
 
-  method GIT_METHOD.
+  method GIT_METHOD1.
 
-*Test ABAP Git
+*Test ABAP Git for Method Change
   endmethod.
 ENDCLASS.
