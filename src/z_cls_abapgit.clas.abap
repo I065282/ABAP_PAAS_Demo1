@@ -19,6 +19,5 @@ CLASS Z_CLS_ABAPGIT IMPLEMENTATION.
   method GIT_METHOD.
 
 *Test ABAP Git
-*New Additions
   endmethod.
 ENDCLASS.
