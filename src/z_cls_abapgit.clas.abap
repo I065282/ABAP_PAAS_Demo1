@@ -19,5 +19,6 @@ CLASS Z_CLS_ABAPGIT IMPLEMENTATION.
   method GIT_METHOD.
 
 *Test ABAP Git
+*Refresh from Git Repository
   endmethod.
 ENDCLASS.
